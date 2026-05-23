@@ -19,7 +19,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES bandix luci-app-bandix luci-i18n-bandix-zh-cn"
 # IPTV 流媒体转发服务器 - rtp2httpd by stackia
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-rtp2httpd luci-i18n-rtp2httpd-zh-cn"
 # iStore首页和网络 - rtp2httpd by stackia
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-quickstart luci-app-quickstart"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-quickstart luci-app-quickstart"
 
 # 仓库内代理相关apk
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-nikki-zh-cn"
